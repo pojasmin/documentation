@@ -41,6 +41,12 @@ module:
        target: layouts/partials/nav/main-nav.html
      - source: layouts/partials/nav/nav-logo-download.html
        target: layouts/partials/nav/nav-logo-download.html
+     - source: layouts/partials/nav/menu-mobile.html
+       target: layouts/partials/nav/menu-mobile.html
+     - source: layouts/partials/search-bar.html
+       target: layouts/partials/search-bar.html
+     - source: layouts/partials/announcement_banner.html
+       target: layouts/partials/announcement_banner.html
      - source: layouts/partials/announcement_banner.html
        target: layouts/partials/announcement_banner.html
      - source: assets/styles/components/_announcement-banner.scss
